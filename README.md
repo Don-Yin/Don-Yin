@@ -1,6 +1,10 @@
 ### Hi there 👋
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=don-yin&theme=tokyonight" alt="mystreak"/>
 
+![Metrics](https://metrics.lecoq.io/don-yin?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+<img src="https://myreadme.vercel.app/api/embed/don-yin?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 <!--
 **Don-Yin/Don-Yin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
