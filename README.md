@@ -6,8 +6,6 @@
 ![Metrics](https://metrics.lecoq.io/don-yin?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/5Zf25eS8E1znm9mez4cGsm)
-
 
 <!--
 **Don-Yin/Don-Yin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
