@@ -1,5 +1,5 @@
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=don-yin&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=don-yin&theme=tokyonight" alt="mystreak" width="100%" />
 
 
 
