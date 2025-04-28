@@ -1,7 +1,7 @@
 <!-- https://github.com/lowlighter/metrics -->
 
 🔭 I’m working on understanding the mechanism behind human brain resilience against cognitive decline using machine learning, multimodal deep learning, and some principles from complex systems.
-📫 How to reach me: don-yin.uk
+📫 How to reach me on ![link](don-yin.uk)
 
 <!-- <img src="https://ssr-contributions-svg.vercel.app/_/don-yin?chart=3dbar&format=svg" alt="mystreak" width="100%" /> -->
 
