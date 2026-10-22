@@ -14,11 +14,9 @@
   </picture>
 </p>
 
-<!-- Enable after adding the METRICS_TOKEN secret (lowlighter/metrics notable plugin needs a PAT):
 <p align="center">
   <img alt="Notable contributions" src="./metrics/notable.svg" width="100%" />
 </p>
--->
 
 <p align="center">
   <picture>
