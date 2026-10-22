@@ -20,10 +20,6 @@
 </p>
 
 <p align="center">
-  <img alt="Notable contributions" src="./metrics/notable.svg" width="100%" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
     <img alt="Stats" src="./profile-summary-card-output/github/3-stats.svg" width="49%" />
@@ -54,4 +50,8 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Don-Yin/Don-Yin/output/github-snake-dark.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Don-Yin/Don-Yin/output/github-snake.svg" width="100%" />
   </picture>
+</p>
+
+<p align="center">
+  <img alt="Notable contributions" src="./metrics/notable.svg" width="70%" />
 </p>
