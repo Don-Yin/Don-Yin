@@ -39,6 +39,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics/notable.svg
           base: ""
+          repositories_batch: 25 # first:100 makes the notable GraphQL query time out (502)
           config_timezone: Europe/London
           plugins_errors_fatal: yes # a failed API call retries instead of committing an error card
           plugin_notable: yes
