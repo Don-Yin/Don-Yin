@@ -40,6 +40,7 @@ jobs:
           filename: metrics/notable.svg
           base: ""
           config_timezone: Europe/London
+          plugins_errors_fatal: yes # a failed API call retries instead of committing an error card
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: pull_request, commit
