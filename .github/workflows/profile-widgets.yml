@@ -41,7 +41,9 @@ jobs:
           mkdir -p metrics && mv pr-stats-*.svg metrics/
           git add metrics/pr-stats-*.svg
           git diff --cached --quiet && exit 0
-          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "Update PR stats cards"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update PR stats cards"
           git pull --rebase && git push
 
   snake:
