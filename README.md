@@ -53,5 +53,10 @@
 </p>
 
 <p align="center">
-  <img alt="Notable contributions" src="./metrics/notable.svg" width="69%" />
+  <a href="https://github.com/Don-Yin/github-pr-stats-cards">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./metrics/pr-stats-narrow.svg">
+      <img alt="Merged Contributions" src="./metrics/pr-stats-wide.svg" width="69%" />
+    </picture>
+  </a>
 </p>

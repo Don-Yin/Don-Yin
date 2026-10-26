@@ -28,24 +28,21 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: 0
 
-  notable-contributions:
+  pr-stats-cards:
     needs: summary-cards
     if: ${{ always() }}
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v5
+      - uses: Don-Yin/github-pr-stats-cards@v1
         with:
-          token: ${{ secrets.METRICS_TOKEN }} # classic PAT: public_repo, read:user
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics/notable.svg
-          base: ""
-          repositories_batch: 25 # first:100 makes the notable GraphQL query time out (502)
-          config_timezone: Europe/London
-          plugins_errors_fatal: yes # a failed API call retries instead of committing an error card
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_types: pull_request, commit
-          plugin_notable_repositories: yes
+          user: ${{ github.repository_owner }}
+      - run: |
+          mkdir -p metrics && mv pr-stats-*.svg metrics/
+          git add metrics/pr-stats-*.svg
+          git diff --cached --quiet && exit 0
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -m "Update PR stats cards"
+          git pull --rebase && git push
 
   snake:
     runs-on: ubuntu-latest
