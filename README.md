@@ -14,6 +14,22 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Don-Yin/Don-Yin/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Don-Yin/Don-Yin/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Don-Yin/github-pr-stats-cards">
+    <picture>
+      <source media="(max-width: 600px)" srcset="./metrics/pr-stats-narrow.svg">
+      <img alt="Merged Contributions" src="./metrics/pr-stats-wide.svg" width="69%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
     <img alt="Profile details" src="./profile-summary-card-output/github/0-profile-details.svg" width="100%" />
   </picture>
@@ -43,20 +59,4 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Don-Yin&theme=github-dark-blue&hide_border=true" />
     <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Don-Yin&hide_border=true" width="71%" />
   </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Don-Yin/Don-Yin/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Don-Yin/Don-Yin/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Don-Yin/github-pr-stats-cards">
-    <picture>
-      <source media="(max-width: 600px)" srcset="./metrics/pr-stats-narrow.svg">
-      <img alt="Merged Contributions" src="./metrics/pr-stats-wide.svg" width="69%" />
-    </picture>
-  </a>
 </p>
