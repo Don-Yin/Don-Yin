@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/search?q=author%3ADon-Yin+is%3Apr+is%3Apublic&type=pullrequests"><img alt="Public PRs opened" src="https://img.shields.io/github/issues-search?query=author%3ADon-Yin%20is%3Apr%20is%3Apublic&label=PRs%20opened&color=2f80ed&style=for-the-badge&logo=github" height="34" /></a>
   <a href="https://github.com/search?q=author%3ADon-Yin+is%3Apr+is%3Apublic+is%3Amerged&type=pullrequests"><img alt="Public PRs merged" src="https://img.shields.io/github/issues-search?query=author%3ADon-Yin%20is%3Apr%20is%3Apublic%20is%3Amerged&label=PRs%20merged&color=8957e5&style=for-the-badge&logo=git-merge" height="34" /></a>
-  <a href="https://github.com/search?q=author%3ADon-Yin+is%3Apr+is%3Apublic+is%3Amerged+-user%3ADon-Yin&type=pullrequests"><img alt="PRs merged into other people's repositories" src="https://img.shields.io/github/issues-search?query=author%3ADon-Yin%20is%3Apr%20is%3Apublic%20is%3Amerged%20-user%3ADon-Yin&label=merged%20into%20others%27%20repos&color=238636&style=for-the-badge&logo=opensourceinitiative&logoColor=white" height="34" /></a>
 </p>
 
 <p align="center">
