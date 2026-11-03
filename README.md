@@ -18,14 +18,21 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://github.com/search?q=author%3ADon-Yin+is%3Apr+is%3Amerged+is%3Apublic&type=pullrequests">
+<div align="center">
+  <a href="https://github.com/Don-Yin/github-pr-stats-cards">
     <picture>
       <source media="(max-width: 600px)" srcset="./metrics/pr-stats-narrow.svg">
       <img alt="Merged Contributions" src="./metrics/pr-stats-wide.svg" width="400" />
     </picture>
   </a>
-</p>
+  <details>
+    <summary>See all repositories</summary>
+    <picture>
+      <source media="(max-width: 600px)" srcset="./metrics/pr-stats-narrow-more.svg">
+      <img alt="More merged contributions" src="./metrics/pr-stats-wide-more.svg" width="400" />
+    </picture>
+  </details>
+</div>
 
 <p align="center">
   <picture>
