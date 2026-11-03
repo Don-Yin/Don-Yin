@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Don-Yin/github-pr-stats-cards">
+  <a href="https://github.com/search?q=author%3ADon-Yin+is%3Apr+is%3Amerged+is%3Apublic&type=pullrequests">
     <picture>
       <source media="(max-width: 600px)" srcset="./metrics/pr-stats-narrow.svg">
       <img alt="Merged Contributions" src="./metrics/pr-stats-wide.svg" width="400" />
