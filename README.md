@@ -25,13 +25,6 @@
       <img alt="Merged Contributions" src="./metrics/pr-stats-wide.svg" width="400" />
     </picture>
   </a>
-  <details>
-    <summary>See all repositories</summary>
-    <picture>
-      <source media="(max-width: 600px)" srcset="./metrics/pr-stats-narrow-more.svg">
-      <img alt="More merged contributions" src="./metrics/pr-stats-wide-more.svg" width="400" />
-    </picture>
-  </details>
 </div>
 
 <p align="center">
