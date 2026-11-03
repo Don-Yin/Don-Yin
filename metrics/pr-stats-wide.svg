@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="858" viewBox="0 0 480 858" role="img" aria-labelledby="title description">
+<style>@media (prefers-color-scheme: light) { rect[fill="#0d1117"] { fill: #fff } rect[fill="#161b22"] { fill: #f6f8fa; stroke: #d0d7de } g[fill="#c9d1d9"] { fill: #1f2328 } [fill="#8b949e"] { fill: #59636e } [fill="#58a6ff"] { fill: #0969da } [fill="#3fb950"] { fill: #1a7f37 } [stroke="#3fb950"] { stroke: #1a7f37 } }</style>
 <title id="title">Merged Contributions</title><desc id="description">Merged public pull requests outside personal repositories, sorted by merged count then stars. Green merge icons show pull requests; stars show repository stars, brighter gold for more stars.</desc>
 <rect width="480" height="858" fill="#0d1117"/>
 <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#c9d1d9"><text x="14" y="27" fill="#58a6ff" font-size="16" font-weight="600">Merged Contributions</text>
@@ -56,7 +57,7 @@
 <clipPath id="name-8"><rect x="30" y="0" width="94.5" height="26"/></clipPath><text x="30" y="17" clip-path="url(#name-8)"><tspan fill="#8b949e"></tspan>tutorials</text>
 <g transform="translate(136.5 8)" fill="#9c8e68"><path d="m5.5 0 1.7 3.4 3.8.5-2.8 2.7.7 3.8-3.4-1.8-3.4 1.8.7-3.8L0 3.9l3.8-.5Z"/><text x="14" y="9" font-size="11">2.6k</text></g>
 <g transform="translate(183.5 6)" stroke="#3fb950" stroke-width="1.4" fill="none"><path d="M3 4v6m0-6c0 3 4 3 7 3"/><circle cx="3" cy="2" r="2"/><circle cx="3" cy="12" r="2"/><circle cx="12" cy="7" r="2"/></g><text x="215.5" y="17" text-anchor="end" fill="#3fb950">2</text></g>
-<g transform="translate(242.5 167)"><title>academa-labs/manimgx: 2 merged pull requests; 2499 stars</title>
+<g transform="translate(242.5 167)"><title>academa-labs/manimgx: 2 merged pull requests; 2500 stars</title>
 <rect width="223.5" height="26" rx="6" fill="#161b22" stroke="#30363d"/>
 <clipPath id="avatar-9"><rect x="8" y="5" width="16" height="16" rx="4"/></clipPath><image x="8" y="5" width="16" height="16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAABx0lEQVR4nOzVT2/SYBwH8B9/xn/KQzdghRHWqamJrsEtw0Ac8ZkQM804uGTzsKOvwDfhC/ENuN3MnKd1F50aQ3QoQwtjha60jgAtW1yMxnowGOMBs8PzPX2/afL7pKfHHs2uwjBjNQsBCEAAApwvwGazPnr4wFwDEqT8ufSMuf4dKOBMs6WZa0Dw9eTLYslcf4ndLD9DeT0u58hxuwsAcSaMU8mnwoswja5cnHz9vtzudG+lZ0JB1DP6q3ew8KoY8HniTERWNY6Nbzzf8bnducyseNjY3i0O/oO1Qm7EbkeUFwCW8/OPNzbpgJ/nLtSbisUCK4s317cE6ai1VsjrRj9Mo+Xb2bel/Xv5eVVrjyLq/l28viWwMca8BzZ/4uqPAuwEg1PJN3vlzZ3duenLlNczHh7tdHsri3ivUl1ayMitL8jvw6lr7/bFpYV0pSZFI2Oyoo0FA0+ebd+YnQawhIIoO8eXPtUqNen7UQDLrxftUiKmG/2DpgIA7MS4bpy4nA63y/Hh8wHPTSnq8dezsxCNqofyZCzyUazz3FRZrHd6OuXzNhQ1EY2cnJ6GaNQ4Ul1OR1WSfweGFOsfvxCAAAQgwP8Dvg0AukqUO2P+HhEAAAAASUVORK5CYII=" clip-path="url(#avatar-9)"/>
 <clipPath id="name-9"><rect x="30" y="0" width="94.5" height="26"/></clipPath><text x="30" y="17" clip-path="url(#name-9)"><tspan fill="#8b949e"></tspan>manimgx</text>
