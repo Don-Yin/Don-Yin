@@ -22,7 +22,7 @@
   <a href="https://github.com/Don-Yin/github-pr-stats-cards">
     <picture>
       <source media="(max-width: 600px)" srcset="./metrics/pr-stats-narrow.svg">
-      <img alt="Merged Contributions" src="./metrics/pr-stats-wide.svg" width="69%" />
+      <img alt="Merged Contributions" src="./metrics/pr-stats-wide.svg" width="400" />
     </picture>
   </a>
 </p>
