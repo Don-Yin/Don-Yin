@@ -37,9 +37,10 @@ jobs:
       - uses: Don-Yin/github-pr-stats-cards@v1
         with:
           user: ${{ github.repository_owner }}
+          readme: README.md
+          dir: metrics
       - run: |
-          mkdir -p metrics && mv pr-stats-*.svg metrics/
-          git add metrics/pr-stats-*.svg
+          git add README.md metrics/pr-stats-*.svg
           git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
